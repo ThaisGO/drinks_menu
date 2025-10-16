@@ -13,7 +13,7 @@ export default defineConfig({
     vueDevTools(),
     tailwindcss(),
   ],
-  base: 'drinks_menu',
+  base: './',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
