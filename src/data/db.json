@@ -1,0 +1,37 @@
+[
+   {
+      "id": 1,
+      "image": "https://imgur.com/MQD4aWV.png",
+      "name": "Mojito",
+      "description": "Rum, Limão, Açúcar, Hortelã e Soda",
+      "tags": ["com-alcool", "sem-alcool"]
+   },
+   {
+      "id": 2,
+      "image": "https://imgur.com/4WuaIaM.png",
+      "name": "Xeque Mate",
+      "description": "Rum, Chá Mate. Limão, Açúcar Mascavo e Guaraná",
+      "tags": ["com-alcool", "sem-alcool"]
+   },
+   {
+      "id": 3,
+      "image": "https://imgur.com/TLc1XIc.png",
+      "name": "Kaventurine",
+      "description": "Cachaça, Suco de Maracujá, Xarope de Frutas Vermelhas, Xarope de Gengibre, Soda, Espuma de Hibisco",
+      "tags": ["com-alcool", "sem-alcool"]
+   },
+   {
+      "id": 4,
+      "image": "https://imgur.com/Ik3EM7l.png",
+      "name": "Caipi-frisante",
+      "description": "Cachaça, Limão, Açúcar, Xarope de Limonada Rosa e Frisante Rosé",
+      "tags": ["com-alcool"]
+   },
+   {
+      "id": 5,
+      "image": "https://imgur.com/QWRkhO6.png",
+      "name": "Chá de Borboleta",
+      "description": "Cachaça, Limão, Açúcar, Xarope de Frutas Vermelhas, Suco de Maracujá, Chá Azul, Soda",
+      "tags": ["com-alcool", "sem-alcool"]
+   }
+]
